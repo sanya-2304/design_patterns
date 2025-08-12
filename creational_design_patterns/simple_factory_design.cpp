@@ -1,3 +1,4 @@
+// simple factory : Put object creation logic into a separate method/class so the client doesn’t directly instantiate objects.
 #include<bits/stdc++.h>
 using namespace std;
 
