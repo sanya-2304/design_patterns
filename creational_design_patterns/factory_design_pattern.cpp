@@ -1,3 +1,5 @@
+    // Factory Method- Define an interface for creating an object, but let subclasses decide which class to instantiate.
+    
     #include<bits/stdc++.h>
     using namespace std;
 
